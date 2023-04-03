@@ -16,7 +16,7 @@ How to run:
 - Open downloaded repository with a command line interface
 - run `python main.py`
 - Game window will open
-- Used Up, Down, Left, and Right arrow keys to control the snake
+- Use Up, Down, Left, and Right arrow keys to control the snake
 - When game is over - window will pause and display prompt; `GAME OVER`
 
 Game Start:
