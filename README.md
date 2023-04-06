@@ -10,6 +10,7 @@ Features:
 - Detect when snake hits wall
 - Displays score on top of screen
 - Object Orientated Programming Principals
+- Saves high score to file to make score persistent across sessions
 
 How to run:
 - Download repository
@@ -17,7 +18,7 @@ How to run:
 - run `python main.py`
 - Game window will open
 - Use Up, Down, Left, and Right arrow keys to control the snake
-- When game is over - window will pause and display prompt; `GAME OVER`
+- If you get a new high score it will be written to high_score.txt
 
 Game Start:
 
